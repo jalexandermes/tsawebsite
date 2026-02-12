@@ -1,0 +1,64 @@
+body {
+  background-image: url(BG.png);
+}
+p {
+  color: White;
+  font-family:sans-serif;
+}
+h1 {
+  color: #747474;
+  font-family:sans-serif;
+}
+
+h2{
+  color: gray;
+  font-family:sans-serif;
+}
+
+li {
+  color: White;
+  font-family:sans-serif;
+}
+
+h6 {
+  Color: white;
+  font-family:sans-serif;
+}
+h3 {
+  color: gray;
+  font-family:sans-serif;
+}
+
+.container img {
+  height: 228px;
+  width: 186px;
+}
+.goldfish img {
+  height:144x;
+  width: 400px;
+}
+
+a {
+  color: #c1c1c1;
+  font-family:sans-serif;
+}
+button {
+  background: Black;
+  text-decoration-color: White;
+  font-family:sans-serif;
+}
+
+.logo img {
+  height: 150px;
+  width: 150px;
+}
+
+.Arrow img{
+ height:100px;
+  width: 75px;
+}
+
+.wolf img {
+  height:100px;
+    width:200px;
+}
